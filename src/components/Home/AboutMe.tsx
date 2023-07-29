@@ -23,7 +23,7 @@ export const AboutMe = () => {
           <p className={`${poppins.className} text-sm`}>
             Tenho 41 anos sou desenvolvedor Fullstack com mais de 2 anos de experiência trabalhando como Freelancer
           </p>
-          <Link href="/" className="p-2 bg-a-background-b w-fit text-lg rounded-lg transition-all hover:opacity-80">Entrar em contato</Link>
+          <Link href="/" className="bg-slate-500 p-2 w-fit rounded-md text-lg transition-all hover:opacity-90">Entrar em contato</Link>
         </div>
 
         <div>
